@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 <div id="badges">
   <a href="https://www.facebook.com/ViweTeko">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://x.com/ViweTeko">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.x.com/ViweTeko">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
-    <img src="https://img.shields.io/badge/Mail-hue?style=for-the-badge&logo=Mail.google&logoColor=white" alt="Mail Badge"/>
+  <a href="iamviwe.teko@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=ViweTeko&style=flat-square&color=blue" alt=""/>
@@ -31,8 +31,8 @@ I am an upcoming Full Stack Software Engineer <img src="https://media.giphy.com/
 
 - :zap: I am an emerging entrepreneur, seeking to change my world before I change the greater world..
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.x.com/ViweTeko)
-## [My Portfolio](https://kipronohvincent.github.io/portfolio/)
+- :mailbox:How to reach me: [![X Badge](https://img.shields.io/twitter/follow/:ViweTeko)](https://www.x.com/ViweTeko)
+<--!## [My Portfolio](https://insert my website here/)-->
 
 - ## BLOGS
 Still Empty for now..
