@@ -4,7 +4,7 @@
   <a href="https://www.facebook.com/ViweTeko">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://www.x.com/ViweTeko">
+  <a href="https://www.x.com/viwe_teko">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
   <a href="iamviwe.teko@gmail.com">
@@ -30,7 +30,7 @@ I am an upcoming Full Stack Software Engineer <img src="https://media.giphy.com/
 
 - :zap: I am an emerging entrepreneur, seeking to change my world before I change the greater world..
 
-- :mailbox:How to reach me: [![X Badge](https://img.shields.io/twitter/follow/:ViweTeko)](https://www.x.com/ViweTeko)
+- :mailbox:How to reach me: [![X Badge](https://img.shields.io/twitter/follow/:ViweTeko)](https://www.x.com/viwe_teko)
 
 - ## BLOGS
 Still Empty for now..
