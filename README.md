@@ -17,7 +17,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://images.app.goo.gl/N8rvqNKc6QxecxCVA" width="800" height="300"/>
+  <img src="https://images.app.goo.gl/N8rvqNKc6QxecxCVA" width="592" height="592"/>
 </div>
 
 ----
