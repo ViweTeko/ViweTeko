@@ -17,7 +17,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://images.app.goo.gl/N8rvqNKc6QxecxCVA" width="592" height="592"/>
+  <img src="https://www.google.com/imgres?imgurl=https://media.licdn.com/dms/image/C4D03AQEYnDLArBig-Q/profile-displayphoto-shrink_800_800/0/1639430931286?e%3D2147483647%26v%3Dbeta%26t%3D6fOB0V6-a3awEinruNHJ2Bb_gxKn02PC6RAoUgkfxX4&tbnid=d82tVOFJMu8IPM&vet=1&imgrefurl=https://za.linkedin.com/in/viwe-teko-398967200&docid=sA1UIbrGiFzXtM&w=592&h=592&itg=1&source=sh/x/im/m1/1&kgs=b144c189e3e9a2fa&shem=abme,trie" width="50" height="50"/>
 </div>
 
 ----
