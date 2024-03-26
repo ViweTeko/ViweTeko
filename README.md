@@ -14,11 +14,10 @@
 <img src="https://komarev.com/ghpvc/?username=ViweTeko&style=flat-square&color=blue" alt=""/>
 <h1>
   Welcome..!
-  <img src="https://imgur.com/3RQGKH8:" width="30px"/>
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/9iv4ErObYQvrW/giphy.gif" width="800" height="300"/>
+  <img src="https://images.app.goo.gl/N8rvqNKc6QxecxCVA" width="800" height="300"/>
 </div>
 
 ----
@@ -51,7 +50,7 @@ Still Empty for now..
   <img src="https://github.com/devicons/devicon/blob/master/icons/rect/rect-original.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" **alt="ubuntu" width="40" height="40"/>
