@@ -32,7 +32,6 @@ I am an upcoming Full Stack Software Engineer <img src="https://media.giphy.com/
 - :zap: I am an emerging entrepreneur, seeking to change my world before I change the greater world..
 
 - :mailbox:How to reach me: [![X Badge](https://img.shields.io/twitter/follow/:ViweTeko)](https://www.x.com/ViweTeko)
-<--!## [My Portfolio](https://insert my website here/)-->
 
 - ## BLOGS
 Still Empty for now..
