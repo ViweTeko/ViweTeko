@@ -62,7 +62,7 @@ Still Empty for now..
 ----
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViweTeko&layout=compact&theme=whatsapp-dark)](https://github.com/anuraghazra/github-readme-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViweTeko&layout=pie&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)\
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ViweTeko&theme=rising-sun)](https://git.io/streak-stats)
 
 ----
