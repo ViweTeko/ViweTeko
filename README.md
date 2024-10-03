@@ -26,9 +26,9 @@
 I am an upcoming Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from `Gqeberha, South Africa`.
 - I am a software engineer with almost a year of experience developing software applications. I am gaining a strong background in object-oriented programming languages such as JavaScript and Python, whilst also learning C.
 
-- :seedling:  Into farming Industrial Hemp.
+- :seedling:  We process Industrial Hemp at SOLV Processing, based in Gqeberha..
 
-- :zap: I am an emerging entrepreneur, seeking to change my world before I change the greater world..
+- :zap: I am an emerging entrepreneur, seeking to gain as many skills as I can..
 
 - :mailbox:How to reach me: [![X Badge](https://img.shields.io/twitter/follow/:viwe_teko)](https://www.x.com/viwe_teko)
 
